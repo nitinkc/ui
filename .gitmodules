@@ -1,0 +1,6 @@
+[submodule "react_vite_tutorial"]
+	path = react_vite_tutorial
+	url = https://github.com/nitinkc/react_vite_tutorial.git
+[submodule "AngularUI-concepts"]
+	path = AngularUI-concepts
+	url = https://github.com/nitinkc/AngularUI-concepts.git
